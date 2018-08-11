@@ -1,0 +1,102 @@
+<resources>
+    <string name="app_name">Division BD</string>
+
+    <string name="dhaka_city">Dhaka is the capital and largest city of Bangladesh.
+        With its colorfoul history and rich cultural traditions, Dhaka is known the
+        world over as the city of mosques and muslin. Its fame attracted travellers
+        from far and near throughout the ages. Today it has grown into a mega city of
+        about 16 million people, with an area of about 1353 sq. km. becoming the hub
+        of the nation’s industrial, commercial, cultural, educational and political activities.
+
+        Dhaka is located in the geographic center of the country. It is in the great deltaic
+        region of the Ganges and Brahmaputra rivers. The city is within the monsoon climate zone,
+        with an annual average temperature of 25 deg C (77 deg F) and monthly means varying
+        between 18 deg C (64 deg F) in January and 29 deg C (84 deg F) in August. Nearly 80% of the
+        annual average rainfall of 1,854 mm (73 in) occurs between May and September.
+
+        The highlight of any visit to Dhaka is to take in a serving of the pulsing vibrancy and extraordinary
+        atmosphere of Puran Dhaka (Old Dhaka). With its winding alleyways and frenetic buzzing energy,
+        there is something to see around every corner and a walk here proves to be quite the photographer’s delight.
+        Travel by a horse driven cart or rickshaw along busy Dhaka streets is a rewarding experience.
+
+</string>
+    <string name="chittagong_city">Chittagong is an important zone for South Asia because it
+        has a major seaport which is situated in convenient geographic location. Chittagong
+        is the second largest city of Bangladesh and contains most of the natural wonders of
+        the country. It is situated between hill tracts and the sea bay of Bengal and in the
+        bank of the river Karnaphuli.
+
+        Though the metropolitan area is not very big but the whole division consists of a large amount
+        of the rural areas, sea beach, several islands and deep hill tracts. There is a good
+        communication infrastructure to reach various parts within few hours.
+
+        The most popular natural wonders of Chittagong are cox’s bazaar, Saint Martin Island, Bandarban,
+        Naval Beach and Rangamati. There are more places that you may not want to miss the chance to
+        visit whenever you get. Those are Bhatiary hill, Meghla, Sitakunda Eco park, dula hajara
+        safari park, foys lake, himchori, inani.
+
+        The local culture is highly enriched in aspect of food and sociability. You will get wide variety
+        of dishes all over the restaurants in Chittagong. The local inhabitants are very cordial and show
+        highest hospitality to their guests.
+
+        The accommodation facility is very satisfactory in Chittagong. There are many hotels providing quality
+        services in very reasonable price. You can find some best hotels here those maintains international standard.
+
+    </string>
+
+    <string name="sylhet_city">Sylhet is considered one of the most picturesque and archaeologically rich
+        regions in South Asia, and has major Islamic Sufi shrines. Its bourgeoning economy has contributed
+        to the regional attractions of landscapes filled with fragrant orange and pineapple gardens and
+        tea plantations. Many Sylheti community members are working and residing abroad, particularly in
+        the United Kingdom. They send remittances to fund projects and industries within the Sylhet Division,
+        which have led to the expansion of the export industry and foreign investment sectors.
+
+     </string>
+
+    <string name="barisal_city">Barisal District. Barisal District, officially known as Barishal District,
+        is a district in south-central Bangladesh, formerly called Bakerganj district, established in 1797.
+        Its headquarters are in the city of Barisal, which is also the headquarters of Barisal Division.
+
+      </string>
+
+    <string name="khulna_city">Khulna is an old river port located on the Rupsha River.
+        It is an important hub of Bangladeshi industry and hosts many national companies.
+        It is served by Port of Mongla, the second largest seaport in the country.
+        It is also one of the two principal naval command centres of the Bangladesh Navy.
+        Navy base BNS Titumir is located in the city.
+
+      </string>
+
+    <string name="rajshahi_city">Rajshahi is an important administrative, educational, cultural
+         business centre in Bangladesh today. It is a historic center of silk production.
+        Varendra Research Museum, which is oldest of its kind in Bangladesh is located in the city.
+        The city is home to many renowned educational institutions of Bangladesh. The head office of
+        Rajshahi Agricultural Development Bank and Barind Multipurpose Development Authority (BMDA)
+        is situated in the city. Rajshahi is served by the Shah Makhdum Airport.
+
+      </string>
+
+    <string name="rangpur_city">Rangpur (Bengali: রংপুর) is one of the major cities in
+        Bangladesh and Rangpur Division. Rangpur was declared a district headquarters on
+        16 December 1769, and established as a municipality in 1869, making it one of the
+        oldest municipalities in Bangladesh.
+
+      </string>
+
+    <string name="man_city">Mymensingh Division (Bengali: ময়মনসিংহ বিভাগ) is one of the eight
+        administrative divisions of Bangladesh. It has an area of 10,485 km² and a population
+        of 11,370,000 as of the 2011 census. It was created in 2015 from districts previously
+        comprising the northern part of Dhaka Division. Its headquarters are in Mymensingh city
+        in Mymensingh District.
+
+      </string>
+    <string name="title_activity_maps">Map</string>
+    <string name="title_activity_maps1">Map</string>
+    <string name="title_activity_maps2">Map</string>
+    <string name="title_activity_maps3">Map</string>
+    <string name="title_activity_maps4">Map</string>
+    <string name="title_activity_maps5">Map</string>
+    <string name="title_activity_maps6">Map</string>
+    <string name="title_activity_maps7">Map</string>
+
+</resources>
